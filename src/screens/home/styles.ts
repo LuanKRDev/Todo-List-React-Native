@@ -41,26 +41,6 @@ export const styles = StyleSheet.create({
         
         
     },
-    statusItem: {
-        flexDirection: 'row',
-        alignItems: 'center'
-    },
-    
-    statusLabel: {
-        color: '#4EA8DE',
-        fontWeight: 'bold',
-        marginRight: 10
-    },
-    colorPurple: {
-        color: '#8284FA'
-    },
-    statusCount: {
-        paddingHorizontal: 8,
-        borderRadius: 100,
-        backgroundColor: '#333333',
-        color: '#FFF',
-        fontWeight: 'bold',
-    },
     divider: {
         borderBottomWidth: 1,
         borderBottomColor: "#333333"
